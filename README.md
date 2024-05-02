@@ -19,6 +19,12 @@ Figure 1: Comparison of gain ratios of the DDLO and the DROO algorithms
 ![App Screenshot](https://github.com/Hemantha-krishna/DDLO-vs-DROO/assets/110892839/21c69f2d-e669-4c82-9495-c9d98622356a)
 
 Figure 2: Comparison of training loss of the DDLO and the DROO algorithms
+
+## Citation
+
+S. K. Mishra, H. K. Challa, K. S. Kotha and D. P. Yarramreddy, "Task Offloading Technique Selection In Mobile Edge Computing," 2024 International Conference on Advancements in Smart, Secure and Intelligent Computing (ASSIC), Bhubaneswar, India, 2024, pp. 1-6, doi: 10.1109/ASSIC60049.2024.10507901. keywords: {Performance evaluation;Multi-access edge computing;Distributed databases;Deep reinforcement learning;Mobile handsets;Energy efficiency;Computational efficiency;Mobile edge computing;computation offloading;deep reinforcement learning [9]},
+https://ieeexplore.ieee.org/document/10507901
+
 ## Acknowledgements
 
  - [Distributed Deep Learning-based Offloading for Mobile Edge Computing Networks](https://github.com/revenol/DDLO)
